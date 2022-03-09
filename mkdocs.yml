@@ -1,0 +1,44 @@
+nav:
+  - 主页: 'index.md'
+  - 高中英语课本:
+    - 安妮最好的朋友: 'high school english textbook\annes best friends.md'
+    
+
+plugins:
+  - search
+  - markdownextradata: {}
+    
+markdown_extensions:
+  - abbr
+  - admonition
+  - smarty
+  - sane_lists
+  - attr_list
+  - md_in_html
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://gist.github.com/Seedking
+    
+theme: 
+    name: material
+    highlightjs: true
+    language: zh
+    
+site_name: 翻译练习
+repo_url: 'https://github.com/Seedking/TranslationPractice'
+repo_name: '翻译练习'
