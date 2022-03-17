@@ -1,7 +1,9 @@
 nav:
   - 主页: 'index.md'
+  - 生词表: 'glossary.md'
   - 高中英语课本:
-    - 安妮最好的朋友: 'high school english textbook\annes best friends.md'
+    - 必修一第一单元: 'high school english textbook\compulsory 1 unit 1.md'
+    - 必修一第二单元: 'high school english textbook\compulsory 1 unit 2.md'
     
 
 plugins:
@@ -32,11 +34,10 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github 
-      link: https://gist.github.com/Seedking
+      link: https://gist.github.com/Seedking 
     
 theme: 
     name: material
-    highlightjs: true
     language: zh
     
 site_name: 翻译练习
