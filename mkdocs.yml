@@ -2,8 +2,10 @@ nav:
   - 主页: 'index.md'
   - 生词表: 'glossary.md'
   - 高中英语课本:
-    - 必修一第一单元: 'high school english textbook\compulsory 1 unit 1.md'
-    - 必修一第二单元: 'high school english textbook\compulsory 1 unit 2.md'
+    - 必修一:
+      - 必修一第一单元: 'high school english textbook\compulsory 1 unit 1.md'
+      - 必修一第二单元: 'high school english textbook\compulsory 1 unit 2.md'
+      - 必修一第三单元: 'high school english textbook\compulsory 1 unit 3.md'
     
 
 plugins:
@@ -39,6 +41,8 @@ extra:
 theme: 
     name: material
     language: zh
+    features:
+    - navigation.tabs
     
 site_name: 翻译练习
 repo_url: 'https://github.com/Seedking/TranslationPractice'

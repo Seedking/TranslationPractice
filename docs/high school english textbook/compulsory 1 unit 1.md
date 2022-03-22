@@ -1,6 +1,6 @@
 Anne's Best Friend
 ------------------
-Do you want a frtiend whom you could tell every thing to, like your deepest feelings and thoughts? Or are you afraid that your friend would laugh at you, or would not understand what you are going through? Anne Frank wanted the first kind, so she made her diary her best friend.  
+Do you want a friend whom you could tell every thing to, like your deepest feelings and thoughts? Or are you afraid that your friend would laugh at you, or would not understand what you are going through? Anne Frank wanted the first kind, so she made her diary her best friend.  
 　　Anne lived in Amsterdam in the Netherlands during World War II. her family was Jewish so they had to hide or they would be caught by the German Nazis. She and her family hid away for nearly twenty-five months before they were discovered. During that time the only true friend was her diary . She said,"I don't want to set down a series of facts in a diary as most people do, but I want this diary itself to be my friend, and I shall call my friend Kitty" Now read how she felt after being in the hiding place since.  
   
 Thursday 15th June,1944  

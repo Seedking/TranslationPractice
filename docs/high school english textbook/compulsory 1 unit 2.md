@@ -74,7 +74,7 @@ English now is also spoken as a foreign or second language in South Asia. For ex
         3.We need more than material wealth to build our country.
         B."More than + 数词" 有 "以上" 或 "不止" 的意思
         1.I have known David for more than 20 years.
-        2.Let's carry out the test with more than the sample copy.
+        2.Let's carry out the test with more than the sample copy.mk
         3.More than one person has made this suggestion.
         C."More than + 形容词" 表示 "非常"
         D."More than + 从句" 表示超过(=over) 可以翻译成简直不,完全不能（其后通常连用情态动词can）
@@ -82,3 +82,36 @@ English now is also spoken as a foreign or second language in South Asia. For ex
         2.That is more than I can tell. 那事我实在不明白。
         3.The heat there was more than he could stand. 那儿的炎热程度是他所不能忍受的
     ```
+
+
+Standard English And Dialects
+-----------------------------
+
+What is standard English? Is it spoken in Britain, the US, Canada, Australia, India and New Zealand? Believe it or not, there is no such thing as standard English. Many people believe the English spoken on TV and the radio is standard English. This is because in the early days of radio, those who reported the news were expected to speak excellent English. However, on TV and the radio you will hear differences in the way people speak.  
+When people use words and expressions different from the "standard language", it is called a dialect. American English has many dialects, especially the midwestern, southern, African American and Spanish dialects. Even in some parts of the USA, two people from neighbouring towns speak a little differently. American English has so many dialects because people have come from all over the world.  
+Geography also plays a part in making dialects. Some people who live in the mountains of the eastern USA speak with an older kind of English dialect. When Americans moved from one place to another, they took their dialects with them. So people from the mountains in the southeastern USA speak with almost the same dialect as people in the northwestern USA. The USA is a large country in which many different dialects are spoken. Although many Americans move a lot, they still recognize and understand each other's dialects.  
+
+正宗英语和方言
+-------------
+
+什么是正宗英语？是在英国的口语，还是美国加拿大澳大利亚，又或者印度新西兰的口语？信不信由你，没有正宗英语这回事。很多人们相信电视和收音机上的是标准英语。这是因为在早期的收音电台，那些报道消息的人要求英语说的非常优秀。然而，在电视和收音机上你将会听到人们说话方式的不同。  
+当人们使用与“标准语言”不同的词汇和表达时，它被称之为方言。美国英语有很多不同的方言，特别是中西部和南部，非裔美国人和西班牙方言。即使在美国的一些地区，两个来自相邻小镇的人，讲话都有细微的差别。美国英语有非常多的方言，因为人们来自世界各地。  
+地理也在制造方言上起作用。一些人生活在美国东部的山中，说的是一种更古老的英语方言<!--用一种更古老的英语方言说话-->。当一些美国人从一个地方迁移到其他地方时，他们也带着他们的方言去了那里。所以人们来自美国东南部山区讲的方言和美国西南地区的差不多。美国是一个讲很多方言的大国。
+
+
+!!! note "生词表"
+    * Believe it or not 信不信由你
+    * there is no such thing 没有这回事
+    * believe v.相信，认为真实
+    * reported v.报道消息
+    * expected v.要求
+    * excellent adj.优秀杰出
+    * However 然而
+    * when conj.当····时
+    * words n.单词
+    * expressions n.表达
+    * especially adv.尤其是 特别
+    * plays a part 起作用
+    * their 他们的 代替his her
+    * almost adv.几乎 差不多
+
