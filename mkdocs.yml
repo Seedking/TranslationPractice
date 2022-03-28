@@ -6,7 +6,9 @@ nav:
       - 必修一第一单元: 'high school english textbook\compulsory 1 unit 1.md'
       - 必修一第二单元: 'high school english textbook\compulsory 1 unit 2.md'
       - 必修一第三单元: 'high school english textbook\compulsory 1 unit 3.md'
-    
+  - HDL BIT:
+    - 程序:
+      - IF 语句: 'hdl bit\procedures\if statement.md'
 
 plugins:
   - search
@@ -19,6 +21,7 @@ markdown_extensions:
   - sane_lists
   - attr_list
   - md_in_html
+  - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition
   - pymdownx.details
@@ -28,6 +31,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - def_list
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tabbed:
